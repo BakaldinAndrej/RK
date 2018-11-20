@@ -1,0 +1,7 @@
+c:\users\андрей\source\repos\Cem3\Cem3\bin\Debug\Cem3.exe.config
+c:\users\андрей\source\repos\Cem3\Cem3\bin\Debug\Cem3.exe
+c:\users\андрей\source\repos\Cem3\Cem3\bin\Debug\Cem3.pdb
+c:\users\андрей\source\repos\Cem3\Cem3\obj\Debug\Cem3.csprojResolveAssemblyReference.cache
+c:\users\андрей\source\repos\Cem3\Cem3\obj\Debug\Cem3.csproj.CoreCompileInputs.cache
+c:\users\андрей\source\repos\Cem3\Cem3\obj\Debug\Cem3.exe
+c:\users\андрей\source\repos\Cem3\Cem3\obj\Debug\Cem3.pdb
